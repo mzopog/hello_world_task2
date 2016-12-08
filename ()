@@ -1,0 +1,26 @@
+'manually merged content from develop branc. The final content if file hello_c.py is now 'Hello C''
+
+
+# Conflicts:
+#	hello_c.py
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   hello_c.py
+#
+# Untracked files:
+#	hello_c.py.orig
+#
